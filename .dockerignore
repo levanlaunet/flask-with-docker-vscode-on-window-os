@@ -1,0 +1,17 @@
+# Git
+.git 
+.gitignore 
+
+# Docker
+.docker-compose.yaml 
+.Dockerfile 
+.dockerignore 
+
+# Python 
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+
+# Local data
+data/
