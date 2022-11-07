@@ -1,3 +1,4 @@
 # Flask with Docker, VScode on Window OS
 
-### Blog : https://levanlau.net
+### Youtube video: https://youtu.be/sxPnMnUwo6s
+### Blog: https://levanlau.net
